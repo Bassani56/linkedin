@@ -1,0 +1,134 @@
+[
+  {
+    "id": "daniel",
+    "nome": "Daniel Bassani",
+    "cargo": "Desenvolvedor Sênior | Líder de Equipe",
+    "foto": "https://images.unsplash.com/photo-1758518727984-17b37f2f0562?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxwcm9mZXNzaW9uYWwlMjBidXNpbmVzcyUyMG1hbiUyMGNvcnBvcmF0ZXxlbnwxfHx8fDE3NzIxMDM2MzV8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral",
+    "localizacao": "São Paulo, Brasil",
+    "empresa": "MaxNet",
+    "experiencias": [
+      {
+        "titulo": "Desenvolvedor Sênior",
+        "empresa": "MaxNet",
+        "periodo": "jan 2022 - Atual · 3 anos",
+        "descricao": "Liderança de equipe de desenvolvimento, arquitetura de soluções e implementação de projetos de grande escala."
+      },
+      {
+        "titulo": "Desenvolvedor Pleno",
+        "empresa": "TechSolutions",
+        "periodo": "mar 2019 - dez 2021 · 2 anos 10 meses",
+        "descricao": "Desenvolvimento de aplicações web e mobile, integração de APIs e manutenção de sistemas."
+      }
+    ]
+  },
+  {
+    "id": "jana",
+    "nome": "Jana Ina",
+    "cargo": "Desenvolvedora Frontend",
+     "foto": "https://images.unsplash.com/photo-1581065178047-8ee15951ede6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxwcm9mZXNzaW9uYWwlMjBidXNpbmVzcyUyMHdvbWFuJTIwcG9ydHJhaXR8ZW58MXx8fHwxNzcyMDI4MzEyfDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral",
+    "localizacao": "São Paulo, Brasil",
+    "empresa": "MaxNet",
+    "experiencias": [
+      {
+        "titulo": "Desenvolvedora Frontend",
+        "empresa": "MaxNet",
+        "periodo": "mar 2020 - Atual · 4 anos",
+        "descricao": "Gestão de projetos de infraestrutura de rede e coordenação de equipes multidisciplinares."
+      },
+      {
+        "titulo": "Desenvolvedora Frontend",
+        "empresa": "ConnectBrasil",
+        "periodo": "jun 2017 - fev 2020 · 2 anos 9 meses",
+        "descricao": "Coordenação de projetos de telecomunicações e análise de viabilidade técnica."
+      }
+    ]
+  },
+  {
+    "id": "silva",
+    "nome": "Silva da Cunha",
+    "cargo": "Desenvolvedor Backend",
+    "foto": "https://images.unsplash.com/photo-1658250273007-ced0cbd4c038?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxwcm9mZXNzaW9uYWwlMjBsYXRpbm8lMjBtYW4lMjBidXNpbmVzc3xlbnwxfHx8fDE3NzIxMDM2MzV8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral",
+    "localizacao": "Rio de Janeiro, Brasil",
+    "empresa": "MaxNet",
+    "experiencias": [
+      {
+        "titulo": "Desenvolvedor Backend",
+        "empresa": "MaxNet",
+        "periodo": "ago 2021 - Atual · 3 anos",
+        "descricao": "Desenvolvimento de plataformas de monitoramento e sistemas de alta disponibilidade."
+      },
+      {
+        "titulo": "Desenvolvedor Backend",
+        "empresa": "WebApps Corp",
+        "periodo": "jan 2019 - jul 2021 · 2 anos 7 meses",
+        "descricao": "Criação de interfaces responsivas e otimização de performance web."
+      }
+    ]
+  },
+  {
+    "id": "carlos",
+    "nome": "Carlos Almeida",
+    "cargo": "Diretor Comercial",
+    "foto": "https://media.istockphoto.com/id/1424988699/pt/foto/businessman-contemplating-in-the-office-looking-through-the-window.jpg?s=2048x2048&w=is&k=20&c=wBJDR4vHtkTnPGUxOroqIRPTTHaOGoK6tQOe49pD0i0=",
+    "localizacao": "São Paulo, Brasil",
+    "empresa": "MaxNet",
+    "experiencias": [
+      {
+        "titulo": "Diretor Comercial",
+        "empresa": "MaxNet",
+        "periodo": "jan 2019 - Atual · 6 anos",
+        "descricao": "Liderança da área comercial, expansão de mercado e gestão de grandes contas."
+      },
+      {
+        "titulo": "Gerente de Vendas",
+        "empresa": "TelecomPlus",
+        "periodo": "abr 2015 - dez 2018 · 3 anos 9 meses",
+        "descricao": "Gestão de equipe de vendas e desenvolvimento de estratégias comerciais."
+      }
+    ]
+  },
+  {
+    "id": "maria",
+    "nome": "Maria Gomes",
+    "cargo": "Desenvolvedora Frontend",
+     "foto": "https://media.istockphoto.com/id/1330522839/pt/foto/young-woman-contemplating-at-home.jpg?s=2048x2048&w=is&k=20&c=mIlIrdHq1uc_JBwNIxuPUT5k0f4th1H6QN-WPDUkkw0=",
+    "localizacao": "São Paulo, Brasil",
+    "empresa": "MaxNet",
+    "experiencias": [
+      {
+        "titulo": "Desenvolvedora Frontend",
+        "empresa": "MaxNet",
+        "periodo": "mai 2021 - Atual · 3 anos",
+        "descricao": "Coordenação de equipe de vendas e desenvolvimento de novos negócios."
+      },
+      {
+        "titulo": "Desenvolvedora Frontend",
+        "empresa": "MaxNet",
+        "periodo": "fev 2019 - abr 2021 · 2 anos 3 meses",
+        "descricao": "Prospecção de clientes e consultoria em soluções de conectividade."
+      }
+    ]
+  },
+  {
+    "id": "felipe-santos",
+    "nome": "Felipe Santos",
+    "cargo": "Tech Lead",
+    "foto": "https://images.unsplash.com/photo-1658250273007-ced0cbd4c038?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxwcm9mZXNzaW9uYWwlMjBsYXRpbm8lMjBtYW4lMjBidXNpbmVzc3xlbnwxfHx8fDE3NzIxMDM2MzV8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral",
+    "localizacao": "Belo Horizonte, Brasil",
+    "empresa": "MaxNet",
+    "experiencias": [
+      {
+        "titulo": "Tech Lead",
+        "empresa": "MaxNet",
+        "periodo": "set 2020 - Atual · 4 anos",
+        "descricao": "Liderança técnica de times de desenvolvimento e definição de arquitetura de software."
+      },
+      {
+        "titulo": "Desenvolvedor Sênior",
+        "empresa": "CodeFactory",
+        "periodo": "mar 2017 - ago 2020 · 3 anos 6 meses",
+        "descricao": "Desenvolvimento de sistemas complexos e mentoria de desenvolvedores juniores."
+      }
+    ]
+  }
+]

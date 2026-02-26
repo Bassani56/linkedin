@@ -1,0 +1,117 @@
+[
+  {
+    "employeeId": "daniel",
+    "posts": [
+      {
+        "id": 701,
+        "conteudo": "Encerramos hoje a entrega do novo sistema de gestão interna da MaxNet. Um projeto desafiador, com múltiplas equipes envolvidas, mas conseguimos manter cronograma, orçamento e qualidade. Orgulho enorme do time! 🚀",
+        "likes": 168,
+        "compartilhamentos": 22
+      },
+      {
+        "id": 702,
+        "conteudo": "Participar da revisão do nosso portfólio estratégico foi uma experiência enriquecedora. Ver como cada projeto impacta diretamente no crescimento da empresa reforça a importância da boa gestão. 📊",
+        "likes": 143,
+        "compartilhamentos": 17
+      },
+      {
+        "id": 703,
+        "conteudo": "Aprendizado do dia: um projeto bem-sucedido começa por um time alinhado com objetivos claros. Comunicação é a base de tudo! 💬",
+        "likes": 156,
+        "compartilhamentos": 20
+      }
+    ]
+  },
+  {
+    "employeeId": "jana",
+    "posts": [
+      {
+        "id": 704,
+        "conteudo": "Finalizei hoje a implementação do novo design system da MaxNet. Componentes mais acessíveis, responsivos e escaláveis. O impacto na produtividade do time já é visível! 💻✨",
+        "likes": 212,
+        "compartilhamentos": 29
+      },
+      {
+        "id": 705,
+        "conteudo": "Nada como ver uma interface que você projetou funcionando perfeitamente em produção. É gratificante transformar ideias em experiências reais para o usuário! 🎨",
+        "likes": 187,
+        "compartilhamentos": 21
+      },
+      {
+        "id": 706,
+        "conteudo": "Dica para quem trabalha com frontend: priorize acessibilidade desde o início. Pequenas decisões fazem grande diferença para milhares de usuários. ♿",
+        "likes": 164,
+        "compartilhamentos": 26
+      }
+    ]
+  },
+  {
+    "employeeId": "silva",
+    "posts": [
+      {
+        "id": 707,
+        "conteudo": "Acabamos de concluir a migração de parte dos serviços para uma arquitetura mais escalável. O ganho de performance já passa de 35%! Backend forte faz toda a diferença. 🔥",
+        "likes": 233,
+        "compartilhamentos": 37
+      },
+      {
+        "id": 708,
+        "conteudo": "Hoje implementei melhorias na camada de cache que reduziram drasticamente o consumo de recursos. Otimização é um hábito, não uma tarefa única. ⚙️",
+        "likes": 175,
+        "compartilhamentos": 19
+      },
+      {
+        "id": 709,
+        "conteudo": "Documentei uma série de boas práticas de segurança para APIs internas. Proteger dados é responsabilidade de todos que escrevem código. 🔐",
+        "likes": 198,
+        "compartilhamentos": 28
+      }
+    ]
+  },
+  {
+    "employeeId": "carlos",
+    "posts": [
+      {
+        "id": 710,
+        "conteudo": "Lançamos hoje uma das campanhas mais importantes do ano na MaxNet. Estratégia, criatividade e execução impecável do time! Orgulho demais desse projeto. 📢",
+        "likes": 247,
+        "compartilhamentos": 44
+      },
+      {
+        "id": 711,
+        "conteudo": "Marketing é sobre entender pessoas. Hoje apresentamos uma pesquisa que vai nortear nossas ações pelos próximos meses — e os insights foram incríveis! 📈",
+        "likes": 189,
+        "compartilhamentos": 24
+      },
+      {
+        "id": 712,
+        "conteudo": "Nada motiva mais do que ver resultados reais: nossa última campanha gerou mais de 60% de crescimento em engajamento. Trabalho em equipe faz tudo acontecer! 🔥",
+        "likes": 221,
+        "compartilhamentos": 31
+      }
+    ]
+  },
+  {
+    "employeeId": "maria",
+    "posts": [
+      {
+        "id": 713,
+        "conteudo": "Terminei o redesign do painel administrativo da MaxNet! Mais intuitivo, mais rápido e muito mais bonito. A experiência dos usuários internos mudou completamente! 🎨✨",
+        "likes": 174,
+        "compartilhamentos": 20
+      },
+      {
+        "id": 714,
+        "conteudo": "Hoje implementei ajustes de responsividade que estavam impactando a experiência mobile. Pequenos detalhes fazem grandes diferenças! 📱",
+        "likes": 156,
+        "compartilhamentos": 18
+      },
+      {
+        "id": 715,
+        "conteudo": "Compartilhando um aprendizado importante: antes de escrever código, entenda o problema do usuário. Soluções bem pensadas começam fora do editor. 💡",
+        "likes": 133,
+        "compartilhamentos": 16
+      }
+    ]
+  }
+]

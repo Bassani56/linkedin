@@ -1,0 +1,52 @@
+[
+  {
+  "id": 1,
+  "employeeId": "daniel",
+  "nome": "Daniel Bassani",
+  "cargo": "Desenvolvedor Sênior | Líder de Equipe",
+  "foto": "https://images.unsplash.com/photo-1758518727984-17b37f2f0562?crop...",
+  "post": "Muito orgulho do time! Hoje concluímos oficialmente a entrega da nova arquitetura de rede corporativa da MaxNet. Um projeto complexo, que exigiu muita colaboração entre áreas e uma gestão cuidadosa de riscos. Ver tudo funcionando com desempenho acima do esperado é extremamente gratificante. 🚀\n\nSeguimos evoluindo!",
+  "likes": 142,
+  "compartilhamentos": 21
+},
+  {
+  "id": 2,
+  "employeeId": "jana",
+  "nome": "Jana Ina",
+  "cargo": "Desenvolvedora Frontend",
+  "foto": "https://images.unsplash.com/photo-1581065178047-8ee15951ede6?crop...",
+  "post": "Hoje finalizei um dos projetos mais desafiadores que já participei na MaxNet: a criação de uma nova camada de componentes reutilizáveis para nossa plataforma. 🎨⚡\n\nAlém de melhorar a performance, conseguimos padronizar interfaces e acelerar o desenvolvimento de novas funcionalidades. Gratidão ao time pela parceria!",
+  "likes": 198,
+  "compartilhamentos": 33
+},
+  {
+  "id": 3,
+  "employeeId": "silva",
+  "nome": "Silva da Cunha",
+  "cargo": "Desenvolvedor Backend",
+  "foto": "https://images.unsplash.com/photo-1658250273007-ced0cbd4c038?crop...",
+  "post": "Entrou em produção hoje nossa nova API de autenticação! 🔐\n\nRefatoramos todo o fluxo, reduzimos a latência em 40% e aumentamos a segurança com novas camadas de verificação. Muito feliz com o resultado e com a evolução técnica do time. 🚀",
+  "likes": 221,
+  "compartilhamentos": 41
+},
+  {
+  "id": 4,
+  "employeeId": "carlos",
+  "nome": "Carlos Almeida",
+  "cargo": "Diretor Comercial",
+  "foto": "https://media.istockphoto.com/id/1424988699/pt/foto/businessman-contemplating-in-the-office-looking-through-the-window.jpg?s=2048x2048&w=is&k=20&c=wBJDR4vHtkTnPGUxOroqIRPTTHaOGoK6tQOe49pD0i0=",
+  "post": "Lançamos hoje a nova campanha institucional da MaxNet — e os primeiros resultados já são incríveis! 📈🔥\n\nEm menos de 24h tivemos um aumento de 62% no engajamento orgânico e ampliamos significativamente nosso alcance. Muito feliz em ver nosso trabalho fortalecendo a marca e gerando conexões reais.",
+  "likes": 120,
+  "compartilhamentos": 34
+},
+  {
+  "id": 5,
+  "employeeId": "maria",
+  "nome": "Maria Gomes",
+  "cargo": "Frontend",
+  "foto": "https://media.istockphoto.com/id/1330522839/pt/foto/young-woman-contemplating-at-home.jpg?s=2048x2048&w=is&k=20&c=mIlIrdHq1uc_JBwNIxuPUT5k0f4th1H6QN-WPDUkkw0=",
+  "post": "Muito feliz em compartilhar o redesign completo do dashboard interno da MaxNet! 🎉\n\nReestruturamos navegação, melhoramos acessibilidade e implementamos novas interações que tornaram o uso muito mais intuitivo. Ver os colaboradores elogiando a experiência não tem preço! 💙",
+  "likes": 81,
+  "compartilhamentos": 17
+}
+]
