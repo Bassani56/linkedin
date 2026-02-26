@@ -1,12 +1,11 @@
-import { createBrowserRouter } from "react-router";
-import { UserProfile } from "./pages/UserProfile";
+import { createBrowserRouter, redirect } from "react-router";
 import { CompanyProfile } from "./pages/CompanyProfile";
 import { EmployeeProfile } from "./pages/EmployeeProfile";
 
 export const router = createBrowserRouter([
   {
     path: "/",
-    Component: UserProfile,
+    loader: () => redirect("/profile/jana"),
   },
   {
     path: "/company/maxnet",
