@@ -18,18 +18,12 @@ export function CompanyProfile() {
         {/* Card da Empresa */}
         <div className="bg-white rounded-lg border border-gray-200 mb-6">
           {/* Banner */}
-          <div className="h-32 bg-gradient-to-r from-blue-700 to-cyan-600 rounded-t-lg relative overflow-hidden">
-            <img 
-              src="https://images.unsplash.com/photo-1646153389640-958d7ba1a864?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHx0ZWNobm9sb2d5JTIwY29tcGFueSUyMG9mZmljZSUyMGJ1aWxkaW5nfGVufDF8fHx8MTc3MjAyNTk0Nnww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral"
-              alt="MaxNet"
-              className="w-full h-full object-cover opacity-20"
-            />
-          </div>
+          <div className="h-32 bg-gradient-to-r from-blue-600 to-blue-800 rounded-t-lg"></div>
           
           {/* Informações da Empresa */}
           <div className="px-6 pb-6">
             <div className="flex items-end -mt-16 mb-4">
-              <div className="w-32 h-32 bg-blue-600 rounded-lg border-4 border-white flex items-center justify-center">
+              <div className="w-32 h-32 bg-blue-600 rounded-full border-4 border-white flex items-center justify-center">
                 <span className="text-white font-bold text-5xl">M</span>
               </div>
             </div>
